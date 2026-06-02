@@ -1,5 +1,5 @@
 ..
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Nandika 👋</h1>
 
 <p align="center">
   <b>Software Engineer · ML/GenAI · Backend · Cloud</b><br/>
