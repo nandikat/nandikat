@@ -4,9 +4,9 @@
 <p align="center">
   <b>Software Engineer · ML/GenAI · Backend · Cloud</b><br/>
   MS Computer Science @ Arizona State University &nbsp;|&nbsp; GPA: 3.78<br/>
-  📍 Tempe, Arizona &nbsp;|&nbsp; 📧 youremail@gmail.com &nbsp;|&nbsp; 
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://yourportfolio.com">Portfolio</a>
+  📍 Tempe, Arizona &nbsp;|&nbsp; 📧 nandikataneja23@gmail.com &nbsp;|&nbsp; 
+  <a href="https://www.linkedin.com/in/nt22/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://nandikat.github.io/NT/">Portfolio</a>
 </p>
 
 <p align="center">
