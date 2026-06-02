@@ -17,8 +17,8 @@ Before that, I completed multiple internships developing web applications and ML
 
 🔭  Currently building: Agentic AI workflows and LLM-powered applications
 💼  Experience: Data Engineering · GenAI · Backend APIs · ML · Cloud (AWS, Azure, GCP)
-🎯  Open to: SWE, ML Engineering, Data Engineering, and Backend roles (OPT available)
-⚡  I built a federated learning system across 10 AWS edge devices achieving 97%+ accuracy in under 60 seconds
+🎯  Open to: SWE, AI/ML Engineering, Data Engineering, and Backend Development roles
+
 
 ---
 
