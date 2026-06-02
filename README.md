@@ -9,20 +9,16 @@
   <a href="https://nandikat.github.io/NT/">Portfolio</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
+I'm a Software Engineer with 1+ year of professional experience at a B2B e-commerce company, where I built data engineering pipelines, GenAI-powered applications, and cloud solutions that drove real operational efficiency.
+Before that, I completed multiple internships developing web applications and ML models for real business requirements. I hold a B.Tech in Computer Science & Engineering from GGSIPU, Delhi and am currently pursuing my MS in CS at Arizona State University.
 
-I'm a Software Engineer with **1+ year of industry experience** building scalable backend systems, ML pipelines, and GenAI applications. Currently pursuing my MS in CS at **Arizona State University**, focusing on AI and distributed systems.
-
-- 🔭 &nbsp;Currently building: Agentic AI workflows and LLM-powered applications
-- 🌱 &nbsp;Exploring: Multi-agent systems, MLOps, and distributed computing
-- 💼 &nbsp;Open to: **SWE, ML Engineering, and Backend Engineering roles** (OPT available)
-- ⚡ &nbsp;Fun fact: I built a federated learning system across 10 AWS edge devices that hit 97%+ accuracy in under 60 seconds
+🔭  Currently building: Agentic AI workflows and LLM-powered applications
+💼  Experience: Data Engineering · GenAI · Backend APIs · ML · Cloud (AWS, Azure, GCP)
+🎯  Open to: SWE, ML Engineering, Data Engineering, and Backend roles (OPT available)
+⚡  I built a federated learning system across 10 AWS edge devices achieving 97%+ accuracy in under 60 seconds
 
 ---
 
@@ -81,14 +77,6 @@ Built a retrieval-augmented generation chatbot that intelligently parses documen
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
 ---
 
 ## 🏅 Certifications
@@ -102,12 +90,12 @@ Built a retrieval-augmented generation chatbot that intelligently parses documen
 
 ## 📫 Let's Connect
 
-I'm actively looking for **SWE / ML Engineering / Backend roles** starting **Summer/Fall 2026**.
+I'm actively looking for **SWE / AI/ML Engineering / Internships**.
 
 Feel free to reach out — I'd love to connect!
 
-&nbsp;&nbsp;📧 **youremail@gmail.com**  
-&nbsp;&nbsp;💼 **[LinkedIn](https://linkedin.com/in/yourprofile)**
+&nbsp;&nbsp;📧 **nandikataneja23@gmail.com**  
+&nbsp;&nbsp;💼 **[LinkedIn](https://www.linkedin.com/in/nt22/)**
 <!---
 nandikat/nandikat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
