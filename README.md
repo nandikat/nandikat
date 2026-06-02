@@ -90,7 +90,7 @@ Built a retrieval-augmented generation chatbot that intelligently parses documen
 
 ## 📫 Let's Connect
 
-I'm actively looking for **SWE / AI/ML Engineering / Internships**.
+I'm actively looking for **SWE / AI/ML Engineering Internships**.
 
 Feel free to reach out — I'd love to connect!
 
