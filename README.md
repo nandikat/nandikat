@@ -1,5 +1,5 @@
 ..
-<h1 align="center">Hi, I'm Nandika </h1>
+<h1 align="center">Hi, I'm Nandika 🤩 </h1>
 
 <p align="center">
   <b>Software Engineer · AI/ML · Backend · Cloud</b><br/>
