@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Nandika 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · ML/GenAI · Backend · Cloud</b><br/>
+  <b>Software Engineer · AI/ML · Backend · Cloud</b><br/>
   MS Computer Science @ Arizona State University &nbsp;<br/>
   📍 Tempe, Arizona &nbsp;|&nbsp; 📧 nandikataneja23@gmail.com &nbsp;|&nbsp; 
   <a href="https://www.linkedin.com/in/nt22/">LinkedIn</a> &nbsp;|&nbsp;
