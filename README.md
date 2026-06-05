@@ -56,7 +56,7 @@ An autonomous invoice processing agent that classifies and validates invoices, q
 
 ---
 
-### 📊 [Customer Lifetime Value Prediction & Segmentation](https://github.com/yourusername/clv-prediction)
+### 📊 [Customer Lifetime Value Prediction & Segmentation](https://github.com/nandikat/Customer_lifetime_value_prediction_and_segmentation)
 > Python · XGBoost · Scikit-learn · Pandas · Matplotlib
 
 Built an RFM pipeline with K-Means clustering (4 segments) and benchmarked ML models — **XGBoost achieved R²: 0.93**, outperforming Ridge Regression and Random Forest. Frequency and AOV identified as top CLV drivers.
