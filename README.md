@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## 💻 About Me
 I'm a Software Engineer with 1+ year of professional experience at a B2B e-commerce company, where I built data engineering pipelines, GenAI-powered applications, and cloud solutions that drove real operational efficiency.
 Before that, I completed multiple internships developing web applications and ML models for real business requirements. I hold a B.Tech in Computer Science & Engineering from GGSIPU, Delhi and am currently pursuing my MS in CS at Arizona State University.
 
