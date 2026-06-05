@@ -70,10 +70,10 @@ Deployed federated learning across **10 AWS IoT Greengrass edge devices** (EC2-e
 
 ---
 
-### 💬 [RAG-Based AI Chatbot](https://github.com/yourusername/rag-chatbot)
-> Python · LangChain · OpenAI API · Prompt Engineering
+### 💬 [RAG-Based AI Chatbot](https://github.com/nandikat/ask_pdf)
+> Python · LangChain · Google Gemini API · Prompt Engineering · Streamlit · ChromaDB
 
-Built a retrieval-augmented generation chatbot that intelligently parses documents and delivers real-time responses, improving customer support accessibility and after-sales knowledge-base querying.
+Built a retrieval-augmented generation chatbot that intelligently parses documents and delivers real-time responses.
 
 ---
 
