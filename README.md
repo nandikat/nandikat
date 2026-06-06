@@ -42,7 +42,7 @@ MySQL · PostgreSQL
 
 ---
 
-## 🔥 Featured Projects
+## Projects
 
 ### 🤖 [Agentic Invoice Processing Workflow]()
 > Python · Flask · MySQL · LangChain · Vertex AI · Chroma
