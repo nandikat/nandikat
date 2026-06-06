@@ -49,7 +49,7 @@ MySQL · PostgreSQL
 
 ## 🔥 Featured Projects
 
-### 🤖 [Agentic Invoice Processing Workflow](https://github.com/yourusername/agentic-invoice-processor)
+### 🤖 [Agentic Invoice Processing Workflow]()
 > Python · Flask · MySQL · LangChain · Vertex AI · Chroma
 
 An autonomous invoice processing agent that classifies and validates invoices, queries a backend database, and resolves line-item discrepancies end-to-end — **no human intervention required**.
@@ -63,7 +63,7 @@ Built an RFM pipeline with K-Means clustering (4 segments) and benchmarked ML mo
 
 ---
 
-### 🌐 [Federated Learning on AWS IoT Edge](https://github.com/yourusername/federated-learning-aws)
+### 🌐 Federated Learning on AWS IoT Edge
 > Python · AWS Lambda · S3 · EC2 · MQTT
 
 Deployed federated learning across **10 AWS IoT Greengrass edge devices** (EC2-emulated). Coordinated MNIST training rounds via MQTT and aggregated model weights using Lambda + S3 — achieving **97%+ accuracy in under 60 seconds**.
