@@ -17,7 +17,7 @@ Before that, I completed multiple internships developing web applications and ML
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills ⚙️
 
 **Languages & Frameworks**
 ```
