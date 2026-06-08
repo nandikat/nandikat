@@ -44,7 +44,7 @@ MySQL · PostgreSQL
 
 ## Projects
 
-### 🤖 [Agentic Invoice Processing Workflow]()
+### 🤖 Agentic Invoice Processing Workflow
 > Python · Flask · MySQL · LangChain · Vertex AI · Chroma
 
 An autonomous invoice processing agent that classifies and validates invoices, queries a backend database, and resolves line-item discrepancies end-to-end.
